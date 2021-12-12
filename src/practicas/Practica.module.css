@@ -9,7 +9,6 @@
   align-items: center;
   border-radius: 10px;
 
-
   position: absolute;
   top: 20%;
   left: 30%;
@@ -67,11 +66,10 @@
   margin: 20px 20px;
 }
 
-
-  position: relative;
+/* position: relative;
   top: 50%;
   left: -5%;
-}
+} */
 .botonAtras {
   position: relative;
   width: 120px;
@@ -161,7 +159,6 @@
   border-radius: 10px;
 
   left: 5%;
-
 }
 .questionsection {
   position: absolute;
@@ -175,7 +172,6 @@
   border: 10px solid white;
 
   left: 15%;
-
 }
 .scoresection {
   position: absolute;
@@ -186,12 +182,8 @@
   background-size: cover;
   border: 10px solid white;
   border-radius: 10px;
-
-
-.questioncount {
-  position: relative;
-  bottom: 10%;
 }
+
 .questiontext {
   font-size: 50px;
   font-family: "Butterfly Kids", cursive;
@@ -207,10 +199,6 @@
   transform: scaleX(1);
 }
 
-
-  left: 130px;
-}
-
 .questioncount {
   position: relative;
   bottom: 10%;
@@ -228,7 +216,6 @@
   transform: scaleY(2);
   transform: scaleX(1);
 }
-
 
 .respuesta {
   width: 300px;
