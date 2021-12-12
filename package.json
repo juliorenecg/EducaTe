@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001",
+  "main": "index.js",
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
@@ -21,10 +22,13 @@
 
     "cors": "^2.8.5",
     "express": "^4.17.1",
+<<<<<<< HEAD
+=======
     "main": "index.js",
 
     "firebase": "^9.4.1",
 
+>>>>>>> dac8f093e950162991fcf3f3160b70920c912c62
     "material-ui": "^0.20.2",
     "md5": "^2.3.0",
     "mongoose": "^6.1.1",
@@ -37,7 +41,8 @@
     "reactstrap": "^8.10.1",
     "sweetalert": "^2.1.2",
     "universal-cookie": "^4.0.4",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "json-server": "^0.17.0"
   },
   "scripts": {
     "front": "react-scripts start ",
