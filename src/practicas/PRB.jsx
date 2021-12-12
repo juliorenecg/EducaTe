@@ -28,7 +28,11 @@ export function PRB(){
 			answerOptions: [
 				{ answerText: '60', isCorrect: true },
 				{ answerText: '70', isCorrect: false },
+
 				{ answerText: '24', isCorrect: false },
+
+				{ answerText: '40', isCorrect: false },
+
 				{ answerText: '50', isCorrect: false },
 			],
 		},

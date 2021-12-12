@@ -7,3 +7,17 @@
   /* background-color: rgb(255, 136, 0); */
   width: 50px;
 }
+@media (max-width: 580px) {
+  .logo {
+    border-radius: 100px;
+    width: 250px;
+    height: auto;
+  }
+}
+@media (max-width: 400px) {
+  .logo {
+    border-radius: 100px;
+    width: 300px;
+    height: auto;
+  }
+}

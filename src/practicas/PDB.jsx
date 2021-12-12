@@ -18,7 +18,11 @@ export function PDB(){
 			questionText: '21÷3',
 			answerOptions: [
 				{ answerText: '7', isCorrect: true },
+
 				{ answerText: '9', isCorrect: false },
+
+				{ answerText: '5', isCorrect: false },
+
 				{ answerText: '4', isCorrect: false },
 				{ answerText: '3', isCorrect: false },
 			],

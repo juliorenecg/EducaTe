@@ -51,9 +51,9 @@ export function LecSuma(){
         </div>
         
         <li>
-          <Link to="/PSB" onClick={
+          <Link to="/PSS" onClick={
             ()=>{
-              history.push("/PSB");
+              history.push("/PSS");
             }
           }>
             <img className={stylesDiv.ImgStyle} src={Practica} alt="practicas" />

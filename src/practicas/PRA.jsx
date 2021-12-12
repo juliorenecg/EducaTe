@@ -37,7 +37,11 @@ export function PRA(){
 			answerOptions: [
 				{ answerText: '6031', isCorrect: false },
 				{ answerText: '6131', isCorrect: false },
+
 				{ answerText: '6310', isCorrect: false },
+
+				{ answerText: '6041', isCorrect: false },
+
 				{ answerText: '6061', isCorrect: true },
 			],
 		},

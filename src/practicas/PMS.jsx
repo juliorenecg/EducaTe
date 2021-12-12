@@ -46,7 +46,7 @@ export function PMS(){
 			answerOptions: [
 				{ answerText: '6', isCorrect: false },
 				{ answerText: '4', isCorrect: false },
-				{ answerText: '8', isCorrect: false },
+				{ answerText: '7', isCorrect: false },
 				{ answerText: '9', isCorrect: true },
 			],
 		},

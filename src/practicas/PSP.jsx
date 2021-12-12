@@ -20,7 +20,7 @@ export function PSP(){
 				{ answerText: '225', isCorrect: true },
 				{ answerText: '226', isCorrect: false },
 				{ answerText: '325', isCorrect: false },
-				{ answerText: '325', isCorrect: false },
+				{ answerText: '326', isCorrect: false },
 			],
 		},
 		{

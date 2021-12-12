@@ -88,7 +88,9 @@
   background-color: rgb(221, 127, 38);
   font-size: 15px;
   color: white;
+
   font-family: "Butterfly Kids", cursive;
+
 }
 .video {
   height: 0;
@@ -125,12 +127,14 @@
   text-align: center;
   overflow: hidden;
 }
+
 @media (max-width: 1090px) {
   .botonAtras {
     top: 12%;
     left: 5%;
   }
 }
+
 @media (max-width: 800px) {
   .title {
     text-align: center;
