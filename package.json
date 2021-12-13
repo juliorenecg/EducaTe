@@ -22,13 +22,9 @@
 
     "cors": "^2.8.5",
     "express": "^4.17.1",
-<<<<<<< HEAD
-=======
     "main": "index.js",
 
     "firebase": "^9.4.1",
-
->>>>>>> dac8f093e950162991fcf3f3160b70920c912c62
     "material-ui": "^0.20.2",
     "md5": "^2.3.0",
     "mongoose": "^6.1.1",
